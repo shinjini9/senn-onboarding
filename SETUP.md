@@ -1,6 +1,6 @@
 # SENN Task 2: Memory Wrap Onboarding
 
-**GitHub repo:** https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_NEW_REPO_NAME>
+**GitHub repo:** https://github.com/your-actual-username/your-actual-repo-name
 
 ## Workstation setup
 - **Platform:** Google Colab
