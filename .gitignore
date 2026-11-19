@@ -5,3 +5,7 @@ core
 *transfer*.py
 *.pyc
 .vscode/
+# onboarding outputs
+paper/datasets/
+paper/images/mem_images/
+paper/scripts/gen.log
